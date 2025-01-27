@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @shibgat-Ullah-Al-Mahmud
-- 👀 I’m interested in web development and designing 
-- 🌱 I’m currently learning RAW PHP | Laravel 11.x | Vanilla JavaScript 
-- 📫 here is my mail contact@shibgat.me; shibgat@hotmail.com; .... if you want to contact, you can...
+👋 Hi, I’m Shibgat Ullah Al Mahmud.
+💻 I’m a full-stack web app developer passionate about crafting dynamic and user-friendly applications.
+💡 My expertise includes:
+Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript
+Backend: PHP, Laravel Framework (11.x), API Development
+Version Control: GitHub
+🌐 Visit my portfolio: shibgat.me
+📬 Feel free to contact me at:
+Email: me@shibgat.me | shibgat@hotmail.com
+GitHub Profile: @shibgatUAM
 
 <!---
 shibgatUAM/shibgatUAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
