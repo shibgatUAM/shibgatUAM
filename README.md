@@ -11,7 +11,7 @@
 🌐 Visit my portfolio: https://shibgat.me/<br>
 📬 Feel free to contact me at: <br>
 Email: me@shibgat.me | shibgat@hotmail.com <br>
-GitHub Profile: [@shibgatUAM](https://github.com/shibgatUAM)
+GitHub Profile: https://github.com/shibgatUAM
 </p>
 
 
