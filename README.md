@@ -2,8 +2,9 @@
 <p>💻 I’m a full-stack web app developer passionate about crafting dynamic and user-friendly applications.</p>
 <h4>💡 My expertise includes:</h4>
 <ul>
-  <li>Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript</li>
-  <li>Backend: PHP, Laravel Framework (11.x), API Development</li>
+  <li>Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React, ShadCN UI, DaisyUI, HeadlessUI</li>
+  <li>Backend: PHP, Laravel Framework (11.x), Node.js, Express.js, REST API Development (Laravel & Node.js)</li>
+  <li>Database: MySQL, MongoDB</li>
   <li> Version Control: GitHub</li>
 </ul>
 
